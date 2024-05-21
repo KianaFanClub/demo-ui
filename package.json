@@ -2,7 +2,7 @@
   "name": "demo-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "demo-ui",
+  "homepage": "/demo-ui/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
