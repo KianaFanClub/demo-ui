@@ -7,6 +7,11 @@ const nextConfig = {
     output: "export",
     // 打包-路由
     trailingSlash: true,
+    // 图片
+    images: {
+        loader: 'custom',
+        loaderFile: './my/image/loader.js',
+    },
 };
 
 export default nextConfig;
